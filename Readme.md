@@ -1,4 +1,4 @@
-# 🔐 AuthBoard
+# 🔐 authBoard
 
 Sistema de autenticación completo desarrollado en **PHP + MySQL**, con gestión de sesiones mediante **tokens con expiración**, renovación de sesión, dashboard moderno y arquitectura separada **Frontend / API**.
 
@@ -158,3 +158,4 @@ Proyecto desarrollado como parte de un **portafolio profesional**.
 ---
 
 Si estás revisando este repositorio como reclutador o cliente: este proyecto representa una base sólida para sistemas reales.
+
